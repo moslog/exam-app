@@ -1,0 +1,404 @@
+{
+    "cells": [
+     {
+      "cell_type": "markdown",
+      "metadata": {
+       "editable": false
+      },
+      "source": [
+       "<div style='text-align:center'>\n",
+       "<h1>Ujian Logic Pondok Programmer</h1>\n",
+       "</div>\n",
+       "\n",
+       "<hr style='height:2px'/>\n",
+       "\n",
+       "### Nama Lengkap : %name\n",
+       "\n",
+       "### Email : %email\n",
+       "### Tanggal Ujian : %date\n",
+       "\n",
+       "## Peraturan :\n",
+       "   1. Peserta harus sudah siap dengan peralatannya 10 menit sebelum ujian dimulai.\n",
+       "   2. Peserta mengerjakan logic secara **DINAMIS**.\n",
+       "   3. Peserta mengerjakan logic secara mandiri.\n",
+       "   4. Jika ada masalah teknis segera menghubungi pengawas.\n",
+       "   5. Peserta diasumsikan sudah mennyelesaikan __Tutorial Logic__ dan telah menonton __Dynamic Logic__."
+      ]
+     },
+     {
+      "cell_type": "markdown",
+      "metadata": {
+       "editable": false
+      },
+      "source": [
+       "<div style='text-align:center'>\n",
+       "<h2>Fungsi Kustom Disini</h2>\n",
+       "</div>\n",
+       "\n",
+       "contoh:\n",
+       "```python\n",
+       "def fungsiKustomku(a):\n",
+       "    print(\"Fungsi Kustomku \" + a)\n",
+       "```"
+      ]
+     },
+     {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {},
+      "outputs": [],
+      "source": []
+     },
+     {
+      "cell_type": "markdown",
+      "metadata": {
+       "editable": false
+      },
+      "source": [
+       "<div style='text-align:center'>\n",
+       "<h2>Soal 1</h2>\n",
+       "<img src='%SOAL_1' />\n",
+       "</div>"
+      ]
+     },
+     {
+      "cell_type": "code",
+      "execution_count": 31,
+      "metadata": {},
+      "outputs": [],
+      "source": [
+       "def soal1(input):\n",
+       "    pass # tuliskan logic kalian disini. Hapus `pass`!"
+      ]
+     },
+     {
+      "cell_type": "markdown",
+      "metadata": {
+       "editable": false
+      },
+      "source": [
+       "<div style='text-align:center'>\n",
+       "<h2>Soal 2</h2>\n",
+       "<img src='%SOAL_2' />\n",
+       "</div>"
+      ]
+     },
+     {
+      "cell_type": "code",
+      "execution_count": 32,
+      "metadata": {},
+      "outputs": [],
+      "source": [
+       "def soal2(input):\n",
+       "    pass # tuliskan logic kalian disini. Hapus `pass`!"
+      ]
+     },
+     {
+      "cell_type": "markdown",
+      "metadata": {
+       "editable": false
+      },
+      "source": [
+       "<div style='text-align:center'>\n",
+       "<h2>Soal 3</h2>\n",
+       "<img src='%SOAL_3' />\n",
+       "</div>"
+      ]
+     },
+     {
+      "cell_type": "code",
+      "execution_count": 33,
+      "metadata": {},
+      "outputs": [],
+      "source": [
+       "def soal3(input):\n",
+       "    pass # tuliskan logic kalian disini. Hapus `pass`!"
+      ]
+     },
+     {
+      "cell_type": "markdown",
+      "metadata": {
+       "editable": false
+      },
+      "source": [
+       "<div style='text-align:center'>\n",
+       "<h2>Soal 4</h2>\n",
+       "<img src='%SOAL_4' />\n",
+       "</div>"
+      ]
+     },
+     {
+      "cell_type": "code",
+      "execution_count": 34,
+      "metadata": {},
+      "outputs": [],
+      "source": [
+       "def soal4(input):\n",
+       "    pass # tuliskan logic kalian disini. Hapus `pass`!"
+      ]
+     },
+     {
+      "cell_type": "markdown",
+      "metadata": {
+       "editable": false
+      },
+      "source": [
+       "<div style='text-align:center'>\n",
+       "<h2>Soal 5</h2>\n",
+       "<img src='%SOAL_5' />\n",
+       "</div>"
+      ]
+     },
+     {
+      "cell_type": "code",
+      "execution_count": 35,
+      "metadata": {},
+      "outputs": [],
+      "source": [
+       "def soal5(input):\n",
+       "    pass # tuliskan logic kalian disini. Hapus `pass`!"
+      ]
+     },
+     {
+      "cell_type": "markdown",
+      "metadata": {
+       "editable": false
+      },
+      "source": [
+       "<div style='text-align:center'>\n",
+       "<h1>Test Otomatis</h1>\n",
+       "<hr style='height:2.5px' />\n",
+       "</div>\n",
+       "\n",
+       "Ini adalah TEST untuk jawaban semua soal diatas.\n",
+       "\n",
+       "Tes yang sukses akan menghasilkan pola sesuai gambar soal. __BENAR__\n",
+       "\n",
+       "Tes yang gagal akan menghasilkan pola yang tidak sesuai. __SALAH__\n",
+       "\n",
+       ">Untuk menjalankan tes manual : `Cell > Run All`\n",
+       "\n",
+       "__KODE KODE DI BAWAH INI TIDAK BOLEH DIUBAH UBAH!__"
+      ]
+     },
+     {
+      "cell_type": "markdown",
+      "metadata": {
+       "editable": false
+      },
+      "source": [
+       "<div style='text-align:center'>\n",
+       "<h2>Soal 1</h2>\n",
+       "<img src='%SOAL_1' />\n",
+       "</div>"
+      ]
+     },
+     {
+      "cell_type": "code",
+      "execution_count": 36,
+      "metadata": {
+       "editable": false
+      },
+      "outputs": [
+       {
+        "name": "stdout",
+        "output_type": "stream",
+        "text": [
+         "Input : 9\n",
+         "Aku Muiz\n",
+         "\n",
+         "\n",
+         "\n",
+         "\n",
+         "Input : 10\n",
+         "Aku Muiz\n"
+        ]
+       }
+      ],
+      "source": [
+       "print('Input : 9')\n",
+       "soal1(9)\n",
+       "print('\\n\\n\\n')\n",
+       "print('Input : 10')\n",
+       "soal1(10)"
+      ]
+     },
+     {
+      "cell_type": "markdown",
+      "metadata": {
+       "editable": false
+      },
+      "source": [
+       "<div style='text-align:center'>\n",
+       "<h2>Soal 2</h2>\n",
+       "<img src='%SOAL_2' />\n",
+       "</div>"
+      ]
+     },
+     {
+      "cell_type": "code",
+      "execution_count": 37,
+      "metadata": {
+       "editable": false
+      },
+      "outputs": [
+       {
+        "name": "stdout",
+        "output_type": "stream",
+        "text": [
+         "Input : 9\n",
+         "\n",
+         "\n",
+         "\n",
+         "\n",
+         "Input : 10\n"
+        ]
+       }
+      ],
+      "source": [
+       "print('Input : 9')\n",
+       "soal2(9)\n",
+       "print('\\n\\n\\n')\n",
+       "print('Input : 10')\n",
+       "soal2(10)"
+      ]
+     },
+     {
+      "cell_type": "markdown",
+      "metadata": {
+       "editable": false
+      },
+      "source": [
+       "<div style='text-align:center'>\n",
+       "<h2>Soal 3</h2>\n",
+       "<img src='%SOAL_3' />\n",
+       "</div>"
+      ]
+     },
+     {
+      "cell_type": "code",
+      "execution_count": 38,
+      "metadata": {
+       "editable": false
+      },
+      "outputs": [
+       {
+        "name": "stdout",
+        "output_type": "stream",
+        "text": [
+         "Input : 9\n",
+         "\n",
+         "\n",
+         "\n",
+         "\n",
+         "Input : 10\n"
+        ]
+       }
+      ],
+      "source": [
+       "print('Input : 9')\n",
+       "soal3(9)\n",
+       "print('\\n\\n\\n')\n",
+       "print('Input : 10')\n",
+       "soal3(10)"
+      ]
+     },
+     {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+       "<div style='text-align:center'>\n",
+       "<h2>Soal 4</h2>\n",
+       "<img src='%SOAL_4' />\n",
+       "</div>"
+      ]
+     },
+     {
+      "cell_type": "code",
+      "execution_count": 39,
+      "metadata": {
+       "editable": false
+      },
+      "outputs": [
+       {
+        "name": "stdout",
+        "output_type": "stream",
+        "text": [
+         "Input : 9\n",
+         "\n",
+         "\n",
+         "\n",
+         "\n",
+         "Input : 10\n"
+        ]
+       }
+      ],
+      "source": [
+       "print('Input : 9')\n",
+       "soal4(9)\n",
+       "print('\\n\\n\\n')\n",
+       "print('Input : 10')\n",
+       "soal4(10)"
+      ]
+     },
+     {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+       "<div style='text-align:center'>\n",
+       "<h2>Soal 5</h2>\n",
+       "<img src='%SOAL_5' />\n",
+       "</div>"
+      ]
+     },
+     {
+      "cell_type": "code",
+      "execution_count": 40,
+      "metadata": {
+       "editable": false
+      },
+      "outputs": [
+       {
+        "name": "stdout",
+        "output_type": "stream",
+        "text": [
+         "Input : 9\n",
+         "\n",
+         "\n",
+         "\n",
+         "\n",
+         "Input : 10\n"
+        ]
+       }
+      ],
+      "source": [
+       "print('Input : 9')\n",
+       "soal5(9)\n",
+       "print('\\n\\n\\n')\n",
+       "print('Input : 10')\n",
+       "soal5(10)"
+      ]
+     }
+    ],
+    "metadata": {
+     "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+     },
+     "language_info": {
+      "codemirror_mode": {
+       "name": "ipython",
+       "version": 3
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "nbconvert_exporter": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.6.4"
+     }
+    },
+    "nbformat": 4,
+    "nbformat_minor": 2
+   }   
