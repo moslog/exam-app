@@ -1,4 +1,4 @@
-from app.assets import template
+from exam_app.app.assets import template
 from .writer import write_notebook
 from .image import images_name
 
