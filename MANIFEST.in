@@ -1,0 +1,3 @@
+include exam_app/app/assets/*.b64
+include exam_app/app/assets/template.ipynb
+include README.md

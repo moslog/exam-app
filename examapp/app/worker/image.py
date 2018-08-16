@@ -1,6 +1,6 @@
 import base64
 import hashlib
-from exam_app.app.assets import question_images
+from app.assets import question_images
 from .writer import write_image
 from random import randint
 

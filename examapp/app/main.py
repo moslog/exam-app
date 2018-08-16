@@ -1,8 +1,8 @@
 from datetime import datetime
-from .app.worker.notebook import create_notebook
-from .app.worker.image import create_image
-from .app.worker.writer import path
-from .app.worker.date import resolve_date
+from .worker.notebook import create_notebook
+from .worker.image import create_image
+from .worker.writer import path
+from .worker.date import resolve_date
 
 def run_generator():
     print('Aplikasi Generator Ujian Logic Pondok Programmer')
