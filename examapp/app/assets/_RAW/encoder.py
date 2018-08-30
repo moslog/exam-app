@@ -1,3 +1,9 @@
+
+print("*.b64 file should be put in parent directory -- assets/ --")
+print("it must be done manually")
+if input("[y / n] ") != 'y':
+    exit()
+
 import glob
 
 folders = glob.glob('**/')
