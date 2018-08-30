@@ -1,20 +1,3 @@
-# Exam App with Python
-
-This logic notebook generator was built with python.
-
-
-```shell
-pip3 install examapp
-cd ~/Desktop
-echo 'import examapp\n\nexamapp.run()' > run.py
-python3 run.py
-```
-
-# MAINTAINER NOTE
-
-This is `examapp` folder tree.
-
-<pre>
 .
 ├── __init__.py
 ├── app
@@ -71,6 +54,5 @@ This is `examapp` folder tree.
 │       ├── notebook.py
 │       └── writer.py
 └── folder_tree.md
-</pre>
 
-Use resizer to resize Image.
+10 directories, 45 files
