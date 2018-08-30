@@ -6,7 +6,7 @@ This logic notebook generator was built with python.
 ```shell
 pip3 install examapp
 cd ~/Desktop
-echo 'import examapp\n\nexamapp.run()' > run.py
+printf 'import examapp\n\nexamapp.run()' > run.py
 python3 run.py
 ```
 
