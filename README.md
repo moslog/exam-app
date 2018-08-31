@@ -9,7 +9,7 @@ pip3 install examapp
 
 ```shell
 RUN_FILE=/tmp/run.py
-printf 'import examapp\n\nexamapp.run()' > $RUN_FILE
+printf 'import examapp; examapp.run()' > $RUN_FILE
 python3 $RUN_FILE
 ```
 
@@ -73,7 +73,7 @@ This is `examapp` folder tree.
 │       ├── image.py
 │       ├── notebook.py
 │       └── writer.py
-└── folder_tree.md
+└── folder_tree.txt
 </pre>
 
 Use resizer to resize Image.
