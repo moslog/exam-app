@@ -5,9 +5,12 @@ This logic notebook generator was built with python.
 
 ```shell
 pip3 install examapp
-cd ~/Desktop
-printf 'import examapp\n\nexamapp.run()' > run.py
-python3 run.py
+```
+
+```shell
+RUN_FILE=/tmp/run.py
+printf 'import examapp\n\nexamapp.run()' > $RUN_FILE
+python3 $RUN_FILE
 ```
 
 # MAINTAINER NOTE
