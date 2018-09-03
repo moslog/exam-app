@@ -1,18 +1,22 @@
-># https://github.com/moslog/exam-app
+
+# Buka alamat ini di Browser!
+>### REPO GITHUB https://github.com/moslog/exam-app
+>### PENJELASAN YOUTUBE https://www.youtube.com
+
+
 
 # Exam App with Python
 
 This logic notebook generator was built with python.
 
+# Temporary Password : "Test"
 
 ```shell
-pip3 install examapp
-```
-
-```shell
-RUN_FILE=/tmp/run.py
-printf 'import examapp; examapp.run()' > $RUN_FILE
-python3 $RUN_FILE
+cd ~
+wget https://raw.githubusercontent.com/moslog/exam-app/master/check_installation.sh
+sudo chmod +x check_installation.sh
+./check_installation.sh
+echo "Done"
 ```
 
 # MAINTAINER NOTE
