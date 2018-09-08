@@ -9,6 +9,14 @@
 
 This logic notebook generator was built with python.
 
+# LOGIC
+Copas
+
+```shell
+printf 'import examapp; examapp.run()' > run.py
+python run.py
+```
+
 # Temporary Password : "Test"
 
 ```shell
